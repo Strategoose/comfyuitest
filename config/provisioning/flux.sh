@@ -31,6 +31,8 @@ CLIP_MODELS=(
 )
 
 UNET_MODELS=(
+    "https://huggingface.co/city96/FLUX.1-dev-gguf/resolve/main/flux1-dev-Q6_K.gguf"
+    "https://huggingface.co/city96/FLUX.1-schnell-gguf/resolve/main/flux1-schnell-Q6_K.gguf"
 )
 
 VAE_MODELS=(
